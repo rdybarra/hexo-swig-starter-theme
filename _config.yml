@@ -1,0 +1,17 @@
+# Navigation
+primary_nav:
+  Home: /
+  About: /about
+  Archives: /archives
+
+# Analytics
+google_analytics: UA-xxxxxxx-1
+
+# Branding
+banner_large: /images/bird.jpg
+favicon: /favicon.png
+copyright_owner: Site Owner
+
+# Social
+twitter: sammyrhodes
+github: hexojs
